@@ -1,5 +1,8 @@
-# [CSES_problemset](https://cses.fi/problemset/list/)        ![f6f0e86fb061ff07cda7c345feb0175382d57a35](https://user-images.githubusercontent.com/99830416/186163318-d6f20067-038f-4bbb-803d-9d2d92b702bb.png)
+ <p align="center">
+  <img src="https://github.com/Abdelrhman-Sayed70/CSES_problemset_solution/blob/main/Logo%20.png" />
+</p>
 
+# [CSES_problemset](https://cses.fi/problemset/list/)        
 ## What is **CSES problem set**
 **Code Submission Evaluation System(CSES)** is a collection of algorithmic programming problems.
 
